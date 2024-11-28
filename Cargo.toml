@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "alckan",
+    "alckan-app/src-tauri"
+]
+resolver = "2"

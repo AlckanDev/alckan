@@ -29,7 +29,12 @@ dependencies = [
 [[package]]
 name = "alckan"
 version = "0.1.0"
+
+[[package]]
+name = "alckan-app"
+version = "0.1.0"
 dependencies = [
+ "alckan",
  "serde",
  "serde_json",
  "tauri",
