@@ -1,8 +1,8 @@
 [package]
 name = "alckan-app"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "A kawaii cross-platform file format conveter."
+authors = ["Ariasaka", "Redish101"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
